@@ -1,0 +1,11 @@
+PixarStyleCreator/
+│── __init__.py
+│── character_operator.py
+│── character_panel.py
+│── character_properties.py
+│── face_library.py
+│── facial_rigging.py  # New facial rig system
+│── lipsync_shapes.py  # New lip-sync shapes
+│── presets/
+│   ├── expressions/
+│   └── phonemes/
